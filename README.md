@@ -1,3 +1,5 @@
+![Screenshot](image.gif)
+
 Installation:
 * Download https://github.com/seqrity/Note-Extension/archive/refs/heads/main.zip then unzip it
 * Go to chrome://extensions/
